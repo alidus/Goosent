@@ -1,0 +1,1 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android"><item android:state_checked="true" android:drawable="@color/primary" /><item android:state_selected="true" android:drawable="@drawable/ripple_effect"></item><item android:drawable="@color/white" /></selector>

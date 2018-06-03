@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="GoosentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!--   your app branding color for the app bar -->
+    <item name="colorPrimary">#00BCD5</item>
+    <!--   darker variant for the status bar and contextual app bars -->
+    <item name="colorPrimaryDark">#0098A6</item>
+    <!--   theme UI controls like checkboxes and text fields -->
+    <item name="colorAccent">#009788</item>
+
+  </style>
+  
+</resources>

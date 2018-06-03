@@ -1,0 +1,1 @@
+<resources><dimen name="fab_margin">16dp</dimen><dimen name="spinner_marign">10dp</dimen><dimen name="add_channel_button_size">40dp</dimen><dimen name="set_cardview_corners_radius">5dp</dimen><dimen name="set_cardview_margin">8dp</dimen><dimen name="setCardElevation">4dp</dimen><dimen name="setCardSelectedElevation">8dp</dimen></resources>

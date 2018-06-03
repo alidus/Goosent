@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.crutches.goosent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:id="@+id/setCardView_cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/set_cardview_margin"
+        android:layout_marginBottom="@dimen/set_cardview_margin"
+        android:background="@color/white"
+        card_view:cardBackgroundColor="@color/white"
+        card_view:cardCornerRadius="@dimen/set_cardview_corners_radius"
+        card_view:cardElevation="4dp">
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Set name"
+                android:textColor="@color/black"
+                android:textSize="25dp"
+                android:id="@+id/setName_cardview_textView" />
+            <View
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:id="@+id/setChannels_separatorLine_view"
+                android:text="Выбрано"
+                android:background="@color/gray" />
+            <LinearLayout
+                android:minHeight="40dp"
+                android:layout_marginTop="20dp"
+                android:id="@+id/setChannels_container_linearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

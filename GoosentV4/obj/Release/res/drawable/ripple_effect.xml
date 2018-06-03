@@ -1,0 +1,1 @@
+<ripple android:color="@color/primary" xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@color/white" /></ripple>

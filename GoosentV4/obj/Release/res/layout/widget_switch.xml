@@ -1,0 +1,1 @@
+<Switch android:layout_width="wrap_content" android:layout_height="match_parent" android:checked="false" tools:targetApi="ICE_CREAM_SANDWICH" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" />

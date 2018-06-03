@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Goosent</string>
+  <string name="search_title">Поиск (тест)</string>
+  <string name="showTabLabels">true</string>
+  <string name="menu_item_block_screen">Stay awake</string>
+  <string name="menu_item_settings">Settings</string>
+
+  <string name="drawerToggle_open">open</string>
+  <string name="drawerToggle_close">close</string>
+
+  <string name="tab_item_chat_actionbar"></string>
+  <string name="tab_item_chat">Chat</string>
+  <string name="tab_item_select_set">Select set</string>
+  <string name="tab_item_edit_set">Edit set</string>
+
+  <string name="database_name">goosentDB</string>
+  <string name="database_sets_table_name">sets_table</string>
+  <string name="database_channels_table_name">channels_table</string>
+
+  <string name="add_channel_view_text">Добавить</string>
+
+  <string name="channelViewNameStoringTag">32</string>
+  <string name="channelViewPlatformStoringTag">23</string>
+  <string name="channelViewSetIndexStoringTag">30</string>
+
+  <string-array name="avalible_steaming_platforms">
+    <item>twitch</item>
+    <item>youtube</item>
+  </string-array>
+  
+</resources>
